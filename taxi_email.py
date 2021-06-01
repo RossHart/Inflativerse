@@ -10,15 +10,15 @@ import math
 name_lookups = {}
 name_lookups['rh'] = {'name':'Ross Hart',
                       'office_number':'0115 846 8814',
-                      'mobile_number':'07415 215 851'}
+                      'mobile_number':'--- --- ---'}
 
 name_lookups['ra'] = {'name':'Rachel Asquith',
                       'office_number':'0115 846 62 81',
-                      'mobile_number':'07891 528 045'}
+                      'mobile_number':'--- --- ---'}
 
 name_lookups['ja'] = {'name':'Jake Arthur',
                       'office_number':'0115 846 64 00',
-                      'mobile_number':'07964 068990'}
+                      'mobile_number':'--- --- ---'}
 
 def load_document(document):
     
